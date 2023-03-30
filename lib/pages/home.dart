@@ -45,7 +45,7 @@ class _HomaPageState extends State<HomaPage> {
                   color: Colors.white,
                   borderRadius: BorderRadius.circular(10),
                 ),
-                child: Image.asset('assets/images/ablogo.png'),
+                child: Image.asset('assets/images/applogo.png'),
               ),
               
             ),
